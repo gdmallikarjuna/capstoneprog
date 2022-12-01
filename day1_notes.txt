@@ -1,0 +1,147 @@
+
+ FULL STACK DEVELOPER 
+
+   1.10.20
+   2.0        
+JDK 1.17.5
+
+  FRONT END - HTML4/5,CSS2/3, BOOTSTRAP, JAVASCRIPT,JQUERY, TYPESCRIPT, ANGULAR 1.0/2.0..9, 13/14 , REACTJS
+            - BUILD MANAGEMENT -NPM, GRUNT, GULP,WEB-PACK
+			- KARMA/JASMINE 
+  
+    
+  BACKEND TECH - CORE JAVA, JDBC , SERVLET, JSP (MVC I, II), {STRUCT 1.0/2.0},SPRING, SPRING BOOT 
+                - WEB-SERVICE - SOAP V/S RESTFUL 
+				- JUNIT
+				-BUILD MANAGEMENT -MAVEN
+				
+            
+  
+  ORM TOOLS: JPA - HIBERNATE
+  
+  
+  DATA BASE : SQL [ ddl, dml, dcl},pl/sql 
+              MYSQL, POSTGRESSQL, ORACLE 
+			  
+			  
+  SERVER : APACHE TOMCAT 
+  
+  
+  REPOSITORY : GIT - {gitlab, github, bitbucket}
+  
+  
+  DEPLOYMENT WORLD : Dev-ops
+  
+         DEV   ,   TEST ,  PROD 
+		 
+		 SANDBOX
+		 
+		JENKINS 
+		
+		DOCKERAIZATION/CONTAINERAIZATION/KUBERNATES
+		
+          
+  PROCESS : - model - agile methodology 
+              scrum process , planning poker - JIRA / CONFLUENCE TOOL 
+  
+  
+  
+  Development Environment :eclipse 
+                           visual studio code
+  
+  
+  
+  
+  Java -Tokens -smallest unit in the java program
+   (, ',{,int, float 
+  
+    Keywords
+	Variables
+	Data Type
+	Operators
+	Identifiers
+	Separators
+	
+	Student student1 = new Student();
+	Student student2 = new Student();
+	
+	
+   class Student{
+   String name;
+   String cname;
+   
+   static String colname="XYZ";
+   
+   
+   
+   
+   }
+  
+  
+   class X{
+    int x; //instance variable
+	int y; //instance variable
+	
+    static int z=10; //class variable 
+	
+     public X(){
+	 }
+	 public static void m1(){
+	  int abc=10; //local variable 
+	 
+	 }
+   
+   
+   }
+   
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+      
+        
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+  			  
