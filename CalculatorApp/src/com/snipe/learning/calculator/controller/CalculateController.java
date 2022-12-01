@@ -64,6 +64,7 @@ public class CalculateController {
 		cal.compute("Sub",data);
 		cal.compute("Mul",data);
 		cal.compute("Div",data);
+		System.out.println("end");
 	}
 
 }
